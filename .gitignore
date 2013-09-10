@@ -1,7 +1,4 @@
 $ cat .gitignore
-
-# Can ignore specific files
 .DS_Store
-
-# codekit
 codekit-config.json
+.sass-cache/
